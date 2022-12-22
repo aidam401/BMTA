@@ -1,0 +1,4 @@
+#Thu Dec 22 10:27:28 CET 2022
+base.0=C\:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

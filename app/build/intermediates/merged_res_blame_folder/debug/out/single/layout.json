@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_game.xml",
+        "source": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_log.xml",
+        "source": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\src\\main\\res\\layout\\item_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_results.xml",
+        "source": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\src\\main\\res\\layout\\activity_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_cell.xml",
+        "source": "C:\\Users\\Adam_Tomasek\\Desktop\\BMTA\\app\\src\\main\\res\\layout\\item_cell.xml"
+    }
+]
